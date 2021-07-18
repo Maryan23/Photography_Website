@@ -12,3 +12,10 @@ body{
 ul{
     font-style: italic;
 }
+ul{
+    border:hidden
+    
+      width: 100px;
+      height: 100px;
+      overflow: auto;
+}
