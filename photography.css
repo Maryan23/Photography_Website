@@ -4,3 +4,8 @@ h1{
     text-align: center;
     font-size: 50px;
 }
+body{
+    background-color: ghostwhite
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
